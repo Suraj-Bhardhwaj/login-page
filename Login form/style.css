@@ -1,0 +1,104 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-image: url(—Pngtree—move\ the\ company\ goods\ transport_921783.jpg);
+    background-size: cover;
+}
+
+
+
+.container{
+    height: 600px;
+    width: 700px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    box-shadow: 0 0 20px rgb(92, 87, 87);
+    border-radius: 5%;
+}
+
+.image{
+    
+    height: 60px;
+    width: 290px;
+    background-image: url(customized.png.png);
+    background-size: cover;
+    margin-top: 8px;
+    
+}
+
+.image form{
+   margin-top: 150px;
+   margin-left: 50px;
+}
+
+input{
+    display: block;
+    margin-bottom: 5px;
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+
+    
+}
+
+label a{
+    
+    font-size: 15px;
+    text-decoration: none;
+}
+
+label a:hover{
+    color: white;
+}
+
+input:hover{
+    border: 2px solid orange;
+}
+
+button{
+    margin-top: 30px;
+    width:250px;
+    border-radius: 6%;
+    border: 1px solid grey;
+    height: 30px;
+    background-color: rgb(28, 255, 206);
+    font-weight: bold;
+    color: black;
+}
+
+#first{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+#Password{
+    margin-top: 15px;
+}
+
+footer{
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: bold;
+    
+}
+
+footer a {
+   
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+footer a:hover{
+    color: whitesmoke;
+}
+
+form{
+    
+    width: 300px;
+}
